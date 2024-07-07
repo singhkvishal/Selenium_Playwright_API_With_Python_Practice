@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="2" skipped="0" tests="8" time="0.163" timestamp="2024-07-07T13:30:41.653285" hostname="DESKTOP-NCTJCTP"><testcase classname="test_Fixture" name="test_divisible_by_3" time="0.002" /><testcase classname="test_Fixture" name="test_divisible_by_6" time="0.001"><failure message="assert (39 % 6) == 0">input_value = 39
+
+    def test_divisible_by_6(input_value):
+&gt;       assert input_value % 6 == 0
+E       assert (39 % 6) == 0
+
+test_Fixture.py:12: AssertionError</failure></testcase><testcase classname="test_div_by_13" name="test_divisible_by_13" time="0.001" /><testcase classname="test_div_by_3_6" name="test_divisible_by_3" time="0.001" /><testcase classname="test_div_by_3_6" name="test_divisible_by_6" time="0.001"><failure message="assert (39 % 6) == 0">input_value = 39
+
+    def test_divisible_by_6(input_value):
+        print ("+++++++++++++++++++test_divisible_by_6+++++++++++++++++=")
+&gt;       assert input_value % 6 == 0
+E       assert (39 % 6) == 0
+
+test_div_by_3_6.py:8: AssertionError</failure></testcase><testcase classname="test_square" name="test_sqrt" time="0.001" /><testcase classname="test_square" name="test_square" time="0.001" /><testcase classname="test_square" name="test_equality" time="0.001" /></testsuite></testsuites>
