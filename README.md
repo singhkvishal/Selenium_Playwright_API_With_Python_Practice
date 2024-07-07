@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/singhkvishal"><img src="https://readme-typing-svg.herokuapp.com/?lines=QA%20Automation%20Tester;End%20To%20End%20Automation;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/singhkvishal"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3D1AF7&random=false&width=435&lines=15%2B+Years+of+Experience+in+QA+Automation+Testing;Experience+in+Selneium%2C+Playwright%2CRestAssured%2CTestSatckWhiteAPI%2CJenkins%2CGit;Programming+Language%3A+Java%2C+JavaScripts%2CPython%2CC%23"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=singhkvishal">
